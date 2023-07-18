@@ -5,13 +5,13 @@
 
  The principle is to insert the design drawing into the page to reduce the transparency of the design drawing.  Then compare.
  #### The design drawing given by the designer
- ![image.png](https://i.postimg.cc/YG8wx6Lr/File-20230718-054416-1.jpg)
+ ![image.png](https://i.postimg.cc/6qx5tz9v/File-20230718-054416-1.jpg)
 
  #### After the development, the actual effect will be realized
- ![image.png](https://i.postimg.cc/T5wvNKnr/File-20230718-054649-2.jpg)
+ ![image.png](https://i.postimg.cc/sxPfXSX0/File-20230718-054649-2.jpg)
+ 
  #### After using the eruda-pixel tool, develop self-inspection and design acceptance effect
-
- ![image.png](https://i.postimg.cc/PNrH5R0P/File-20230718-054721-3.jpg)
+ ![image.png](https://i.postimg.cc/dQGV4MBm/File-20230718-054721-3.jpg)
 
  ### Demo experience
  [Experience URL](https://faithree.github.io/eruda-pixel/)
